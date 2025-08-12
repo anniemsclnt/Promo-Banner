@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "promo-banner": { "type": "promo-banner" },
+    "main": { "type": "hero" }
+  },
+  "order": ["promo-banner", "main"]
+}
+
